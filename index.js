@@ -88,7 +88,7 @@ document.addEventListener("keypress", function (event){
             audio5.play();
             break;
             
-        case 'l':
+        case 'l':   
             audio6 = new Audio('/sounds/tom-4.mp3');
             audio6.play();
             break;
